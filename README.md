@@ -1,17 +1,9 @@
 # Documentation
 
-SRE快速上手之處
+SRENote
 
 ## 目錄
 
-### 各環境伺服器及網路架構
-
-- [production](./architecture/prod/README.md)
-- [normal](./architecture/README.md)
-
-### 部署流程
-
-- [CDN 部署](http://gitlab.sb.rexbet.com/sports-betting/knowledge/continuous-deployment-guide/-/blob/master/Delievry/CDN%E9%83%A8%E7%BD%B2%E6%B5%81%E7%A8%8B.md)
 
 ### GCP 執行語法收集
 
@@ -21,8 +13,6 @@ SRE快速上手之處
 
 ### 工具流程
 
-- [check environment version](./tools/check-version.md)
-- [check evironment kernel setting](./tools/check-environment-setting.md)
 - [disk split](./tools/disk-split.md)
 - [kubernetes network debug tools](./tools/kubernetes-network-debug-tools.md)
 
